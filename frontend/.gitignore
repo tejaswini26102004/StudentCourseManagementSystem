@@ -1,0 +1,8 @@
+.vs/
+*.vsidx
+*.suo
+*.user
+bin/
+obj/
+node_modules/
+*.log
